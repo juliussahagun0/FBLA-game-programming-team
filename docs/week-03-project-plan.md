@@ -3,9 +3,21 @@
 **Event:**
 **Our project in one sentence:**
 ## 1. Features
+
 | Feature | Need it serves | Group | Size | Owner |
 | --- | --- | --- | --- | --- |
-| | | Must-have | | |
+| A player can open the game, read the rules on the title screen, and start a new season. | Gives players a clear starting point and explains how to play right away. | Must-have | S | |
+| A player can recruit new athletes and assign them to practice drills to boost their stats. | Lets players build and train their high school roster over the season. | Must-have | M | |
+| A player can move, attack, and block with an athlete in a sandbox fighting arena. | Delivers the core fighting gameplay and responsive controls. | Must-have | L | |
+| A player can play through scheduled season matches against AI teams to reach the state championship. | Drives the main goal of competing through a season to win the title. | Must-have | M | |
+| A player can finish a season with different endings, like winning the state title, missing the playoffs, or losing the locker room. | Shows how a player's choices lead to multiple outcomes. | Must-have | S | |
+| A player can balance tough practices with rest days so athletes don't burn out or get hurt. | Adds resource and stamina management to team planning. | Should-have | M | |
+| A player can make tough calls during random off-field problems, like grade checks, minor injuries, or budget cuts. | Challenges players to handle unexpected obstacles and keep morale up. | Should-have | M | |
+| A player can jump into a sandbox practice mode to set up custom hazards and test out combos. | Gives players freedom to experiment with mechanics outside of official matches. | Should-have | L | |
+| A player can turn on accessibility options like colorblind indicators, custom keybinds, and difficulty settings. | Makes the game easier to play and navigate for everyone. | Should-have | S | |
+| A player can scout rival schools before big matches to learn their fighting styles and tweak their lineup. | Rewards strategic preparation before tough games. | Stretch | M | |
+| A player can unlock custom uniforms, mascots, and trophies that carry over across multiple seasons. | Adds long-term progression and visual customization. | Stretch | L | |
+| A player can grab a second controller or share a keyboard for local two-player exhibition fights. | Lets friends test out rosters against each other on one screen. | Stretch | M | |
 ## 2. Rating sheet check
 
 | Rating sheet line | Where our plan covers it |
